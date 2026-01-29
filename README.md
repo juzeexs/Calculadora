@@ -2,6 +2,8 @@
 
 Calculadora simples e funcional desenvolvida com HTML, CSS e JavaScript puro.
 
+🌐 **Acesse o projeto:** [https://calculadornet.netlify.app](https://calculadornet.netlify.app)
+
 ## ✨ Funcionalidades
 * **Operações básicas:** Soma, subtração, multiplicação e divisão.
 * **Cálculos especiais:** Porcentagem e arredondamento automático.
@@ -21,6 +23,3 @@ Calculadora simples e funcional desenvolvida com HTML, CSS e JavaScript puro.
 * `index.html`: Estrutura da interface.
 * `style.css`: Estilização e responsividade.
 * `script.js`: Lógica de cálculo e eventos.
-
-Link do Projeto
-https://calculadornet.netlify.app/
