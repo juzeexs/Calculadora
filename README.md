@@ -21,3 +21,6 @@ Calculadora simples e funcional desenvolvida com HTML, CSS e JavaScript puro.
 * `index.html`: Estrutura da interface.
 * `style.css`: Estilização e responsividade.
 * `script.js`: Lógica de cálculo e eventos.
+
+Link do Projeto
+https://calculadornet.netlify.app/
